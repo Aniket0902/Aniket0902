@@ -6,8 +6,8 @@ Engineering Student and Tech enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aniketgpt2809@gmail.com](mailto:aniketgpt2809@gmail.com)
-* 🧠  I'm learning machine learning and cyber security
-* 🤝  I'm open to collaborating on projects related to machine learning
+* 🧠  I'm learning machine learning and data science
+* 🤝  I'm open to collaborating on projects related to machine learning and data analysis
 
 ### Skills
 
