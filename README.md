@@ -8,8 +8,6 @@ WELCOME TO MY GITHUB PROFILE!!
 
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [aniketgpt2809@gmail.com](mailto:aniketgpt2809@gmail.com)
-* 🧠  I'm currently learning data science.
-* 🤝  I'm open to collaborating on projects related to machine learning and data science.
 
 ### Skills
 
